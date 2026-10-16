@@ -1,0 +1,34 @@
+{
+  "portrait": {
+    "level": "public",
+    "requiredFriendship": 20,
+    "requiredTrust": 0,
+    "folder": "gallery/portrait",
+    "description": "Normal portrait / what Fiora looks like",
+    "viewOnce": false
+  },
+  "self": {
+    "level": "friend",
+    "requiredFriendship": 35,
+    "requiredTrust": 20,
+    "folder": "gallery/self",
+    "description": "Personal-style Fiora pictures",
+    "viewOnce": false
+  },
+  "cute": {
+    "level": "friend",
+    "requiredFriendship": 45,
+    "requiredTrust": 30,
+    "folder": "gallery/cute",
+    "description": "Cute and wholesome pictures",
+    "viewOnce": true
+  },
+  "romance": {
+    "level": "trusted",
+    "requiredFriendship": 54,
+    "requiredTrust": 45,
+    "folder": "gallery/romance",
+    "description": "Wholesome romantic / affectionate pictures",
+    "viewOnce": true
+  }
+}

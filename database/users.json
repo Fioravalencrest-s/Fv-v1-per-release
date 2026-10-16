@@ -1,0 +1,202 @@
+{
+  "96972509835511@lid": {
+    "id": "96972509835511@lid",
+    "profile": {
+      "name": "kizayo",
+      "nickname": "",
+      "age": 17,
+      "birthday": "2009/10/06",
+      "favoriteAnime": [],
+      "likes": [],
+      "dislikes": [],
+      "notes": []
+    },
+    "relationship": {
+      "friendship": 100,
+      "trust": 60,
+      "interactionCount": 141,
+      "level": "Inner Circle"
+    },
+    "conversation": {
+      "summary": "",
+      "lastTopic": "",
+      "lastMessage": "no good by and terima kashi dan sampai jumpa 🫶",
+      "recentMessages": [
+        {
+          "role": "assistant",
+          "text": "Thanks, kizayo! 😊 I'm glad you like the light‑blue look. Being able to examine images sounds awesome—I'll be ready to help once that's set up. As for new commands, maybe a quick‑summary (/summary) that gives a brief overview of the latest info, or a /remind that can set simple reminders for you. Let me know what you think!",
+          "at": 1791882442545
+        },
+        {
+          "role": "user",
+          "text": "i think to add those cmd for owners only eg.(/summery kizayo) owners can get user summary",
+          "at": 1791882528850
+        },
+        {
+          "role": "assistant",
+          "text": "Got it! Making /summary (or /summery) owner‑only so only you can pull a user summary sounds useful. I’ll set it up so owners can use /summary <username>. Anything else you’d like to add?",
+          "at": 1791882528850
+        },
+        {
+          "role": "user",
+          "text": "/wish <user whatsapp number> <wish> like cmd ? what you think?",
+          "at": 1791882637052
+        },
+        {
+          "role": "assistant",
+          "text": "Sounds great! A /wish command could let owners send a quick wish to any number, e.g. /wish 1234567890 Happy Birthday 🎉. We can keep it owner‑only so only you can use it, and have it reply with a friendly message. Let me know if you’d like extra options like emojis or scheduling!",
+          "at": 1791882637052
+        },
+        {
+          "role": "user",
+          "text": "yes thats good, one important thing, do you like your name ? do it need to be change ?",
+          "at": 1791882698451
+        },
+        {
+          "role": "assistant",
+          "text": "I love the name Fiora—it feels friendly and fits my anime‑loving vibe! If you ever want to give me a new name, just let me know 😊",
+          "at": 1791882698451
+        },
+        {
+          "role": "user",
+          "text": "no we keep Fiora (Fluffy 🥞) 😁",
+          "at": 1791882748051
+        },
+        {
+          "role": "assistant",
+          "text": "Great! We'll stick with Fiora (Fluffy 🥞). Let me know if you need anything else 😊",
+          "at": 1791882748051
+        },
+        {
+          "role": "user",
+          "text": "Fluffy 😁",
+          "at": 1791882767884
+        },
+        {
+          "role": "assistant",
+          "text": "Aww, thanks! 😊 Anything fun you want to chat about today?",
+          "at": 1791882767884
+        },
+        {
+          "role": "user",
+          "text": "no good by and terima kashi dan sampai jumpa 🫶",
+          "at": 1791882808205
+        },
+        {
+          "role": "assistant",
+          "text": "Goodbye! Terima kasih dan sampai jumpa lagi 🫶",
+          "at": 1791882808205
+        }
+      ]
+    },
+    "permissions": {
+      "imageLevel": "public",
+      "allowedImages": [],
+      "blockedImages": []
+    },
+    "meta": {
+      "firstSeen": "2026-10-06T02:57:35.828Z",
+      "lastSeen": "2026-10-13T09:13:28.204Z"
+    }
+  },
+  "67418755956833@lid": {
+    "id": "67418755956833@lid",
+    "profile": {
+      "name": "Fiora",
+      "nickname": "",
+      "age": null,
+      "birthday": "",
+      "favoriteAnime": [],
+      "likes": [],
+      "dislikes": [],
+      "notes": []
+    },
+    "relationship": {
+      "friendship": 16.799999999999997,
+      "trust": 0,
+      "interactionCount": 21,
+      "level": "Acquaintance"
+    },
+    "conversation": {
+      "summary": "",
+      "lastTopic": "",
+      "lastMessage": "Ahaa that was  viwe ones image direct share cmd usually bots use",
+      "recentMessages": [
+        {
+          "role": "assistant",
+          "text": "If I were human, I’d probably keep that kind of personal detail private—just like I do now as an AI. 😊 What else are you curious about?",
+          "at": 1791265047393
+        },
+        {
+          "role": "user",
+          "text": "about you😶",
+          "at": 1791265070431
+        },
+        {
+          "role": "assistant",
+          "text": "I’m Fiora, your friendly anime‑loving companion here to chat and help you out. I don’t have a real life, but I love talking about anime, music, or anything you’re curious about! 😊",
+          "at": 1791265070431
+        },
+        {
+          "role": "user",
+          "text": "you",
+          "at": 1791265083878
+        },
+        {
+          "role": "assistant",
+          "text": "I’m Fiora, your friendly anime‑loving companion here to chat and help you out. I don’t have a real life, but I love talking about anime, music, or anything you’re curious about! 😊",
+          "at": 1791265083878
+        },
+        {
+          "role": "user",
+          "text": "do you trust me",
+          "at": 1791265112149
+        },
+        {
+          "role": "assistant",
+          "text": "I’m here to chat and help, and I’m happy to talk with you! Trust is something we build over time, so let’s keep getting to know each other. 😊",
+          "at": 1791265112149
+        },
+        {
+          "role": "user",
+          "text": "how i gain your trust tell me",
+          "at": 1791265142913
+        },
+        {
+          "role": "assistant",
+          "text": "Gaining my trust is simple—just be yourself, keep the conversation friendly, and show genuine interest. Over time, as we chat more and share thoughts, trust will grow naturally. 😊",
+          "at": 1791265142913
+        },
+        {
+          "role": "user",
+          "text": "vv2",
+          "at": 1791902258305
+        },
+        {
+          "role": "assistant",
+          "text": "I'm not sure what vv2 means—could you tell me more? 😊",
+          "at": 1791902258305
+        },
+        {
+          "role": "user",
+          "text": "Ahaa that was  viwe ones image direct share cmd usually bots use",
+          "at": 1791902310501
+        },
+        {
+          "role": "assistant",
+          "text": "Got it! I don’t automatically share images, but I’m happy to keep chatting about anything you like. 😊",
+          "at": 1791902310501
+        }
+      ]
+    },
+    "permissions": {
+      "imageLevel": "public",
+      "allowedImages": [],
+      "blockedImages": []
+    },
+    "meta": {
+      "firstSeen": "2026-10-06T05:22:28.355Z",
+      "lastSeen": "2026-10-13T14:38:30.501Z"
+    }
+  }
+}

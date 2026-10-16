@@ -1,0 +1,28 @@
+{
+  "name": "fiora-v1",
+  "version": "2.0.0",
+  "description": "Fiora V1 - modular WhatsApp AI assistant with memory, relationships, permissions, admin panel and scheduler",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "admin": "node admin/server.js",
+    "test": "node tests/test.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "ai",
+    "memory"
+  ],
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "archiver": "^7.0.1",
+    "axios": "^1.16.0",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "@whiskeysockets/baileys": "6.7.24"
+  }
+}
